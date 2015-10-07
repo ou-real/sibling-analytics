@@ -1,0 +1,45 @@
+{
+    "title" : "Symmetry vs Asymmetry",
+    "ylabel" : "Average number across 30 repetitions",
+    "legend" : ["Nurturing", "Self care", "Nothing"],
+    "data" : 
+    [
+        {
+            "src": "results/symm1",
+            "label" : "Symm1"
+        },
+        {
+            "src": "results/symm2",
+            "label" : "Symm2"
+        },
+
+        {
+            "src": "results/symm3",
+            "label" : "Symm3"
+        },
+
+        {
+            "src": "results/symm4",
+            "label" : "Symm4"
+        },
+
+        {
+            "src": "results/asymm1",
+            "label" : "Asymm1"
+        },
+
+        {
+            "src": "results/asymm2",
+            "label" : "Asymm2"
+        },
+
+        {
+            "src": "results/asymm3",
+            "label" : "Asymm3"
+        },
+        {
+            "src": "results/asymm4",
+            "label" : "Asymm4"
+        }
+    ]
+}

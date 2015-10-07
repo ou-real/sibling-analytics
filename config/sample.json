@@ -1,0 +1,19 @@
+{
+    "title" : "Exp vs Control Selected",
+    "xlabel" : "Generation",
+    "ylabel" : "Average across 30 repetitions",
+    "labels" : ["Max exp", "Ave exp", "Min exp","Max control","Ave control" ,"Min control"],
+    "format" : "pdf",
+    "data" : 
+    [
+        {
+            "src": "/Users/AliHM/Documents/workspace/nevil/nevil-sibling/build/results/9-25-2015_22-8-16",
+            "overall" : false
+        },
+
+        {
+            "src": "/Users/AliHM/Documents/workspace/nevil/nevil-sibling/build/results/9-26-2015_3-59-12",
+            "overall" : false
+        }
+    ]
+}

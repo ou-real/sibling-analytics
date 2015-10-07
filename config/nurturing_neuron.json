@@ -1,0 +1,16 @@
+{
+    "title" : "Sibling Neuron111",
+    "ylabel" : "Average number across 30 repetitions",
+    "legend" : ["Nurturing", "Self care", "Nothing"],
+    "data" : 
+    [
+        {
+            "src": "results/experiment",
+            "label" : "Experiment"
+        },
+        {
+            "src": "results/control",
+            "label" : "Control"
+        }
+    ]
+}

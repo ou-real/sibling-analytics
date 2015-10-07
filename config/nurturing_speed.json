@@ -1,0 +1,36 @@
+{
+    "title" : "Robots with disability",
+    "ylabel" : "Average number across 30 repetitions",
+    "legend" : ["Nurturing", "Self care", "Nothing"],
+    "data" : 
+    [
+        {
+            "src": "results/speed_6-6",
+            "label" : "6-6"
+        },
+        {
+            "src": "results/speed_7-5",
+            "label" : "7-5"
+        },
+
+        {
+            "src": "results/speed_8-4",
+            "label" : "8-4"
+        },
+
+        {
+            "src": "results/speed_9-3",
+            "label" : "9-3"
+        },
+
+        {
+            "src": "results/speed_10-2",
+            "label" : "10-2"
+        },
+
+        {
+            "src": "results/speed_11-1",
+            "label" : "11-1"
+        }
+    ]
+}

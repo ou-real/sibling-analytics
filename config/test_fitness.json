@@ -1,0 +1,18 @@
+{
+    "title" : "Test for Nurturing",
+    "ylabel" : "Average number across 30 repetitions",
+    "xlabel" : "Generation",
+    "data" : 
+    [
+        {
+            "src": "results/case_1",
+            "label" : ["A=12, B=0 Max", "A=12, B=0 Ave"],
+            "overall" : true
+        },
+        {
+            "src": "results/case_2",
+            "label" : ["A=0 B=12 Max", "A=0 B=12 Ave"],
+            "overall": true
+        }
+    ]
+}
