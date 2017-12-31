@@ -1,17 +1,17 @@
-#Sibling Analytics
+# Sibling Analytics
 
 
-##Usage
+## Usage
 
-###Compilation/Install
+### Compilation/Install
 
-###Execution
+### Execution
 
-##Usage
+## Usage
 
-##Dependencies
+## Dependencies
 
-##Structure
+## Structure
     sibling-analytics
     ├── objects                 - [Desc]
     │    ├── __init__.py
@@ -22,8 +22,8 @@
 
     └── [folder/file]
 
-##[Potential Bugs](https://github.com/ou-real/sibling-analytics/issues)
-##[To do](https://github.com/ou-real/sibling-analytics/milestones)
+## [Potential Bugs](https://github.com/ou-real/sibling-analytics/issues)
+## [To do](https://github.com/ou-real/sibling-analytics/milestones)
 
-##License
+## License
 [MIT license](http://opensource.org/licenses/MIT)
